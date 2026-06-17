@@ -1,12 +1,8 @@
-**Name:** DEEPAK R
-
-**Company:** CodSoft
-
-**ID:** BY26RY207910
-
-**Domain:** Python Programming
-
-**Duration:** 15 June 2026 to 15 July 2026
+- **Name:** DEEPAK R
+- **Company:** CodSoft
+- **ID:** BY26RY207910
+- **Domain:** Python Programming
+- **Duration:** 15 June 2026 to 15 July 2026
 
 # Task 1 - To-Do List Application
 
