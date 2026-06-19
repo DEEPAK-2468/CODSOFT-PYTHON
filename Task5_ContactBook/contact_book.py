@@ -1,5 +1,5 @@
 import os
-fname="Contacts.txt"
+fname = os.path.join(os.path.dirname(__file__), "Contacts.txt")
 
 def load():
     contacts=[]
